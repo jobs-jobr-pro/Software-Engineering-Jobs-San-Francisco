@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in San Francisco — 2026
 
-<sub><small>Last updated: Apr 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in San Francisco** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf).
@@ -13,9 +13,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Postman](https://www.postman.com/)** | **[Senior Software Engineer, Monetization](https://jobr.pro/job/40399936/senior-software-engineer-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, California, United States | On Site | Apr 17 |
+| **[Lightship RV](https://lightshiprv.com/)** | **[Software Engineer, UI/UX](https://jobr.pro/job/40423303/software-engineer-uiux?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | South San Francisco, CA | On Site | Apr 17 |
+| **[Amplitude](https://amplitude.com/)** | **[Staff Software Engineer](https://jobr.pro/job/40420615/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 17 |
+| **[Discord](https://discordapp.com/)** | **[Staff Software Engineer, Data Platform](https://jobr.pro/job/40420618/staff-software-engineer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 17 |
+| **[Chime](https://www.chime.com/)** | **[Senior Software Engineer, GenAI Platform](https://jobr.pro/job/40415698/senior-software-engineer-genai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA, USA | On Site | Apr 17 |
+| **[Planet](https://planetlabs.net)** | **[Intern, Software Engineer, Mission Systems](https://jobr.pro/job/40416081/intern-software-engineer-mission-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 17 |
+| **[Lyft](https://www.lyft.com/)** | **[Senior Software Engineer, Self-Serve Intelligence](https://jobr.pro/job/40420090/senior-software-engineer-self-serve-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | Remote | Apr 17 |
+| **[HubSpot](https://www.hubspot.com/)** | **[Staff Software Engineer](https://jobr.pro/job/40414632/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA, USA | On Site | Apr 17 |
+| **[Gumloop](https://www.gumloop.com/)** | **[Software Engineer](https://jobr.pro/job/40421104/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco Office | On Site | Apr 17 |
+| **[OpenAI](https://openai.com/)** | **[Software Engineer, Engineering Acceleration \| Consumer Devices](https://jobr.pro/job/40421132/software-engineer-engineering-acceleration-consumer-devices?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 17 |
+| **[Postman](https://postman.com)** | **[Senior Software Engineer, Monetization](https://jobr.pro/job/40399936/senior-software-engineer-monetization-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, California, United States | On Site | Apr 17 |
 | **[Gamma](https://gamma.app/)** | **[Staff Software Engineer, Frontend](https://jobr.pro/job/40401640/staff-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 17 |
 | **[Ditto - Resilient Edge Device Connectivity](https://www.ditto.com)** | **[Senior Software Engineer, Systems FDE](https://jobr.pro/job/40401044/senior-software-engineer-systems-fde?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Remote (Atlanta, Austin, San Francisco, Seattle) | Remote | Apr 17 |
+| **[Ditto - Resilient Edge Device Connectivity](https://www.ditto.com)** | **[Senior Software Engineer, Autonomy](https://jobr.pro/job/40413464/senior-software-engineer-autonomy?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Remote (Atlanta, Austin, San Francisco, Seattle) | Remote | Apr 17 |
+| **[Ditto - Resilient Edge Device Connectivity](https://www.ditto.com)** | **[Senior Software Engineer, Platform FDE](https://jobr.pro/job/40413465/senior-software-engineer-platform-fde?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 17 |
+| **[Weekend](https://www.weekend.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40420707/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 17 |
 | **[Peregrine](https://peregrine.io/)** | **[Senior Software Engineer, Data Governance](https://jobr.pro/job/40401669/senior-software-engineer-data-governance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 16 |
 | **[Gusto](https://gusto.com/)** | **[Staff Software Engineer, Payments / Risk](https://jobr.pro/job/40401111/staff-software-engineer-payments-risk?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA - Hybrid; New York, NY - Hybrid | Remote | Apr 16 |
 | **[Instawork](https://www.instawork.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40401114/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, California, United States | On Site | Apr 16 |
@@ -28,6 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cognition](http://cognition-labs.com/)** | **[Software Engineer, Infrastructure](https://jobr.pro/job/40382040/software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco Bay Area | On Site | Apr 16 |
 | **[Ambience](https://ambiencehealthcare.com/)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/40382058/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 16 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer- AI Platform Engineer](https://jobr.pro/job/40387665/lead-software-engineer-ai-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA, United States | On Site | Apr 16 |
+| **[Assembled](https://www.assembled.com/)** | **[Software Engineer - AI Agents & Platform](https://jobr.pro/job/40424636/software-engineer-ai-agents-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 16 |
 | **[Together AI](https://www.together.ai/)** | **[Software Engineer - Storage & Observability (Early Career)](https://jobr.pro/job/40381327/software-engineer-storage-observability-early-career?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
 | **[Twitch](https://www.twitch.tv/)** | **[Software Engineer, Safety](https://jobr.pro/job/40382078/software-engineer-safety?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 15 |
 | **[San Francisco Compute](https://sfcompute.com)** | **[Software Engineer — ETL & Data](https://jobr.pro/job/40382102/software-engineer-etl-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 15 |
@@ -50,26 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pear VC](https://pear.vc)** | **[Senior Full Stack Software Engineer - Brico](https://jobr.pro/job/40365952/senior-full-stack-software-engineer-brico?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco Bay Area | On Site | Apr 15 |
 | **[Pear VC](https://pear.vc)** | **[Founding Software Engineer - TruTec](https://jobr.pro/job/40365919/founding-software-engineer-trutec?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
 | **[Weekend](https://www.weekend.com/)** | **[Senior Software Engineer, Games](https://jobr.pro/job/40365826/senior-software-engineer-games?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Weekend](https://www.weekend.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40365825/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Suno](https://www.suno.com/)** | **[Software Engineer, Trust & Safety](https://jobr.pro/job/40364330/software-engineer-trust-safety?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Serverless Networking Application Platform](https://jobr.pro/job/40365725/staff-software-engineer-serverless-networking-application-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA, USA | On Site | Apr 15 |
-| **[ElevenLabs](https://elevenlabs.io)** | **[Forward Deployed Engineer - Software Engineer](https://jobr.pro/job/40363271/forward-deployed-engineer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | Remote | Apr 15 |
-| **[Scribd, Inc.](https://scribdinc.com)** | **[Software Engineer II (Backend + Data pipelines)](https://jobr.pro/job/40363030/software-engineer-ii-backend-data-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Scribd, Inc.](https://scribdinc.com)** | **[Software Engineer - Backend (Python)](https://jobr.pro/job/40363029/software-engineer-backend-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Scribd, Inc.](https://scribdinc.com)** | **[Senior Software Engineer - Web Platform](https://jobr.pro/job/40363027/senior-software-engineer-web-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Scribd, Inc.](https://scribdinc.com)** | **[Senior Software Engineer - Web API Platform](https://jobr.pro/job/40363026/senior-software-engineer-web-api-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Scribd, Inc.](https://scribdinc.com)** | **[Senior Software Engineer (Python + Distributed systems)](https://jobr.pro/job/40363025/senior-software-engineer-python-distributed-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Onos Health](https://www.onoshealth.com/)** | **[Staff Software Engineer (Full Stack)](https://jobr.pro/job/40363012/staff-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Onos Health](https://www.onoshealth.com/)** | **[Staff Software Engineer (AI)](https://jobr.pro/job/40363011/staff-software-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer, Forward Deployed](https://jobr.pro/job/40362916/software-engineer-forward-deployed?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | Apr 15 |
-| **[Cohere](https://cohere.com/)** | **[Staff Software Engineer, Inference Infrastructure](https://jobr.pro/job/40362798/staff-software-engineer-inference-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | Apr 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 31 companies | Avg salary: 286k  
+**Current Stats:** 50 jobs | 10% remote | 33 companies | Avg salary: 292k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, ai  
+**Trending Skills:** ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
