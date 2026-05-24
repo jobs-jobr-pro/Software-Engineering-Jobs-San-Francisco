@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in San Francisco — 2026
 
-<sub><small>Last updated: May 23, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in San Francisco** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Fluidstack](https://fluidstack.io)** | **[Software Engineer, Infrastructure Platform](https://jobr.pro/job/40914854/software-engineer-infrastructure-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | May 23 |
+| **[Mixpanel](https://mixpanel.com)** | **[Senior Software Engineer, AI Platform](https://jobr.pro/job/40914295/senior-software-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, US (Hybrid) | On Site | May 23 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, RL Training Infra](https://jobr.pro/job/40909758/software-engineer-rl-training-infra?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | Remote | May 23 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Core Science](https://jobr.pro/job/40907920/software-engineer-core-science?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | Remote | May 22 |
 | **[Zeta Global](https://zetaglobal.com/)** | **[Senior Software Engineer](https://jobr.pro/job/40905444/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, California, United States | On Site | May 22 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Remedy Robotics](https://www.remedyrobotics.com/)** | **[Software Engineer (Generalist)](https://jobr.pro/job/40854388/software-engineer-generalist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | Remote | May 19 |
 | **[Handshake](http://www.handshake.es)** | **[Software Engineer, Handshake AI Enterprise](https://jobr.pro/job/40849115/software-engineer-handshake-ai-enterprise?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | May 19 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Senior Software Engineer (Frameworks), JavaScript SDK](https://jobr.pro/job/40855707/senior-software-engineer-frameworks-javascript-sdk?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, California | Remote | May 19 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Senior Software Engineer (Node), JavaScript SDK](https://jobr.pro/job/40855706/senior-software-engineer-node-javascript-sdk?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, California | Remote | May 19 |
-| **[Opal Security](https://opal.dev/)** | **[Software Engineer, Infrastructure](https://jobr.pro/job/40853128/software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | Remote | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 34 companies | Avg salary: 1.0853667926838536e+241k  
+**Current Stats:** 50 jobs | 26% remote | 35 companies | Avg salary: 6.097568439035243e+240k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai, javascript  
