@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in San Francisco — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in San Francisco** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf).
@@ -23,11 +23,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OpenAI](https://openai.com/)** | **[Capacity Systems Software Engineer](https://jobr.pro/job/40902913/capacity-systems-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 22 |
 | **[Saris AI](https://saris.ai)** | **[Software Engineer (New Grad)](https://jobr.pro/job/40897107/software-engineer-new-grad?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 22 |
 | **[Twitch](https://www.twitch.tv)** | **[Software Engineer, Creator Sponsorships](https://jobr.pro/job/40894291/software-engineer-creator-sponsorships?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | May 22 |
-| **[Gamma](https://gammagroup.co)** | **[Software Engineer, Growth](https://jobr.pro/job/40893695/software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 22 |
-| **[Gamma](https://gammagroup.co)** | **[Software Engineer, Frontend](https://jobr.pro/job/40893693/software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 22 |
+| **[Gamma](https://gammagroup.co)** | **[Software Engineer, Growth](https://jobr.pro/job/40924241/software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 22 |
+| **[Gamma](https://gammagroup.co)** | **[Software Engineer, Frontend](https://jobr.pro/job/40924235/software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 22 |
 | **[Scanner](https://venturescanner.com)** | **[Software Engineer, Product Infrastructure](https://jobr.pro/job/40894176/software-engineer-product-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA (Hybrid) | On Site | May 21 |
 | **[Decagon](https://decagon.ai/)** | **[Software Engineer, Agent Orchestration](https://jobr.pro/job/40899314/software-engineer-agent-orchestration?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 21 |
-| **[Gamma](https://gammagroup.co)** | **[Software Engineer, Backend](https://jobr.pro/job/40893692/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 21 |
+| **[Gamma](https://gammagroup.co)** | **[Software Engineer, Backend](https://jobr.pro/job/40924234/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 21 |
 | **[Lila Sciences](https://lila.ai)** | **[Sr Principal/Principal Software Engineer, App](https://jobr.pro/job/40893033/sr-principalprincipal-software-engineer-app?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Cambridge, MA USA; San Francisco, CA USA | On Site | May 21 |
 | **[Lila Sciences](https://lila.ai)** | **[Staff Software Engineer, Scientific System of Record](https://jobr.pro/job/40893035/staff-software-engineer-scientific-system-of-record?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Cambridge, MA USA; San Francisco, CA USA | On Site | May 21 |
 | **[Redpanda Data](https://redpanda.com)** | **[Senior Software Engineer, Cloud](https://jobr.pro/job/40893890/senior-software-engineer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | May 21 |
