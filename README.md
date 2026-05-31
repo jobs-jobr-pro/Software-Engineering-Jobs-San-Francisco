@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in San Francisco — 2026
 
-<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in San Francisco** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf).
@@ -16,6 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hinoki Security](https://hinoki.security)** | **[Software Engineer (Agent Core Infra)](https://jobr.pro/job/40990705/software-engineer-agent-core-infra?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 30 |
 | **[Drata](https://drata.com)** | **[Staff Software Engineer, Monetization Platform](https://jobr.pro/job/40988745/staff-software-engineer-monetization-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Hybrid - San Francisco | Remote | May 30 |
 | **[Decagon](https://decagon.ai/)** | **[Senior Software Engineer, Data Infrastructure](https://jobr.pro/job/40988293/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 29 |
+| **[Monaco](https://www.monaco.com)** | **[Senior Software Engineer - Platform and Infrastructure (Security)](https://jobr.pro/job/40994155/senior-software-engineer-platform-and-infrastructure-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 29 |
+| **[Monaco](https://www.monaco.com)** | **[Senior Software Engineer - Platform and Infrastructure (DevEx)](https://jobr.pro/job/40994154/senior-software-engineer-platform-and-infrastructure-devex?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 29 |
 | **[Lila Sciences](https://lila.ai)** | **[Principal Software Engineer, Data](https://jobr.pro/job/40985365/principal-software-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Cambridge, MA USA; San Francisco, CA USA | On Site | May 29 |
 | **[Nimble Robotics](https://nimble.ai)** | **[Software Engineer III](https://jobr.pro/job/40987091/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | May 29 |
 | **[SPAN](https://spanishdict.com)** | **[Staff Software Engineer](https://jobr.pro/job/40985928/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gusto, Inc.](https://sushiwithgusto.com)** | **[Staff Software Engineer, Developer Productivity Async](https://jobr.pro/job/40947317/staff-software-engineer-developer-productivity-async?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | Remote | May 26 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Ad Formats](https://jobr.pro/job/40939264/software-engineer-ad-formats?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | Remote | May 26 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Software Engineer, Observability](https://jobr.pro/job/40939278/staff-software-engineer-observability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA, US; Remote, US | Remote | May 26 |
-| **[Lila Sciences](https://lila.ai)** | **[Senior Software Engineer, App](https://jobr.pro/job/40942659/senior-software-engineer-app?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Cambridge, MA USA; San Francisco, CA USA | On Site | May 26 |
-| **[OpenAI](https://openai.com/)** | **[Full-Stack Software Engineer, Compute Foundations](https://jobr.pro/job/40935914/full-stack-software-engineer-compute-foundations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 37 companies | Avg salary: 7.14286360715238e+246k  
+**Current Stats:** 50 jobs | 28% remote | 38 companies | Avg salary: 7.50000678751e+234k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
