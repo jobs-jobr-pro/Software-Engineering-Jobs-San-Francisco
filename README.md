@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in San Francisco — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in San Francisco** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AXS](https://axshealthapp.com)** | **[Director, Software Engineering -B2B](https://jobr.pro/job/40998195/director-software-engineering-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA | On Site | May 31 |
 | **[Hinoki Security](https://hinoki.security)** | **[Software Engineer (Agent Core Infra)](https://jobr.pro/job/40990705/software-engineer-agent-core-infra?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 30 |
 | **[Drata](https://drata.com)** | **[Staff Software Engineer, Monetization Platform](https://jobr.pro/job/40988745/staff-software-engineer-monetization-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Hybrid - San Francisco | Remote | May 30 |
 | **[Decagon](https://decagon.ai/)** | **[Senior Software Engineer, Data Infrastructure](https://jobr.pro/job/40988293/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Finch](https://finch.com/)** | **[Software Engineer, Backend](https://jobr.pro/job/40948999/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | On Site | May 26 |
 | **[Gusto, Inc.](https://sushiwithgusto.com)** | **[Staff Software Engineer, Developer Productivity Async](https://jobr.pro/job/40947317/staff-software-engineer-developer-productivity-async?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | Remote | May 26 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Ad Formats](https://jobr.pro/job/40939264/software-engineer-ad-formats?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco | Remote | May 26 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Software Engineer, Observability](https://jobr.pro/job/40939278/staff-software-engineer-observability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-sf)** | San Francisco, CA, US; Remote, US | Remote | May 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 38 companies | Avg salary: 7.50000678751e+234k  
+**Current Stats:** 50 jobs | 26% remote | 39 companies | Avg salary: 6.250007500006788e+234k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
